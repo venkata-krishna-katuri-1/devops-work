@@ -29,5 +29,5 @@ var server = http.createServer(function (req,res){
     }
 });
 
-server.listen(1200);
+server.listen(8000);
 console.log('server is running at port 1200');
